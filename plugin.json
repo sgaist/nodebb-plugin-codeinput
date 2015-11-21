@@ -1,0 +1,16 @@
+{
+    "id": "nodebb-plugin-codeinput",
+    "name": "NodeBB CodeInput Plugin",
+    "description": "Add a button to the editor that makes creating code blocks easier",
+    "url": "https://github.com/sgaist/nodebb-plugin-codeinput",
+    "library": "./library.js",
+    "staticDirs": {
+        "static": "./static"
+    },
+    "less": [
+        "static/style.less"
+    ],
+    "scripts": [
+        "static/js/codeinput.js"
+    ]
+}

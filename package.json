@@ -1,0 +1,29 @@
+{
+  "name": "nodebb-plugin-codeinput",
+  "version": "0.1.0",
+  "description": "Adds a button to add coding tags",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sgaist/nodebb-plugin-codeinput.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "editor",
+    "code"
+  ],
+  "author": "sgaist",
+  "license": "LGPL v3",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/sgaist/nodebb-plugin-codeinput/issues"
+  },
+  "nbbpm": {
+        "compatibility": "^0.8.0",
+        "compatibility": "^0.9.0"
+    }
+}
