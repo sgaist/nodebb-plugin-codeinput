@@ -17,7 +17,7 @@
     "code"
   ],
   "author": "sgaist",
-  "license": "LGPL v3",
+  "license": "MIT",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/sgaist/nodebb-plugin-codeinput/issues"
